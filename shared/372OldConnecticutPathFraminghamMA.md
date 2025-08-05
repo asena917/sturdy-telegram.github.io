@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
+
+    <img src="https://drive.google.com/thumbnail?id=1rFqidjqL4Ul0i529FZ-p-R04BL-0BnIS" alt="BackyardMoney.com"> <br>
+    <a href="https://drive.google.com/file/d/1NsSW_cq2G3RT9Ebxp-2QvqnL6b-5cqH8/view?usp=sharing" target="_blank">PDF report</a>
+    <a href="https://calendly.com/backyardmoney6/30min" target="_blank">Schedule a call</a>
+    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+    
 <head>
+    <link rel="icon" href="https://drive.google.com/thumbnail?id=1rFqidjqL4Ul0i529FZ-p-R04BL-0BnIS">
+
     <title>ADU Assessment - 372 Old Connecticut Path, Framingham MA</title>
     <style>
         body {
@@ -111,6 +119,7 @@
         }
     </style>
 </head>
+
 <body>
 
 <div class="header">
@@ -508,4 +517,7 @@
 </div>
 
 </body>
+
+<br>
+    <img src="https://lh3.googleusercontent.com/d/1Mwm71Ec_Bv-WfKSFHMwnJx8jKnoVBJj0" alt="372 Old Connecticut Path Framingham MA">
 </html>
